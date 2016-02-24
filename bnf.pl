@@ -1,4 +1,6 @@
 #!/usr/bin/speedy -w -- -gwiki -M5 -r30
+# License: Creative Commons Attribution-ShareAlike 4.0, http://creativecommons.org/licenses/by-sa/4.0/
+# Creator repo: https://github.com/sl236/BNF
 use strict;
 use CGI;
 use PageFetch;
