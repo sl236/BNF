@@ -1,3 +1,6 @@
+# License: Creative Commons Attribution-ShareAlike 4.0, http://creativecommons.org/licenses/by-sa/4.0/
+# Creator repo: https://github.com/sl236/BNF
+
 package PageFetch;
 $VERSION='1.0';
 use strict;
